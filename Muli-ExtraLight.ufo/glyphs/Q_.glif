@@ -8,7 +8,7 @@
       <point x="602" y="-169" type="line"/>
       <point x="602" y="-169"/>
       <point x="521" y="-87"/>
-      <point x="472" y="-0" type="curve"/>
+      <point x="472" y="0" type="curve"/>
       <point x="621" y="36"/>
       <point x="714" y="166"/>
       <point x="714" y="353" type="curve" smooth="yes"/>
@@ -49,23 +49,29 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>Q</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1628.2</real>
+          <integer>767</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

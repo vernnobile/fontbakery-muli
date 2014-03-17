@@ -49,7 +49,7 @@
       <point x="179" y="19" type="curve"/>
       <point x="133" y="-81" type="line"/>
       <point x="181" y="-102" type="line"/>
-      <point x="228" y="-0" type="line"/>
+      <point x="228" y="0" type="line"/>
       <point x="253" y="-7"/>
       <point x="281" y="-11"/>
     </contour>
@@ -61,23 +61,29 @@
         <key>b</key>
         <dict>
           <key>anchors</key>
-          <array/>
+          <array>
+          </array>
           <key>components</key>
-          <array/>
+          <array>
+          </array>
           <key>contours</key>
-          <array/>
+          <array>
+          </array>
           <key>lib</key>
-          <dict/>
+          <dict>
+          </dict>
           <key>name</key>
           <string>oslash</string>
           <key>unicodes</key>
-          <array/>
+          <array>
+          </array>
           <key>width</key>
-          <real>1255</real>
+          <integer>617</integer>
         </dict>
       </dict>
       <key>org.robofab.postScriptHintData</key>
-      <dict/>
+      <dict>
+      </dict>
     </dict>
   </lib>
 </glyph>

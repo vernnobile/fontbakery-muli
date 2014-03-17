@@ -10,10 +10,10 @@
 	<string>Digitized data Copyright (c) 2011-2014, vernon adams.</string>
 	<key>descender</key>
 	<integer>-271</integer>
+	<key>familyName</key>
+	<string>Muli</string>
 	<key>note</key>
 	<string></string>
-	<key>openTypeHeadCreated</key>
-	<string>2014/03/17 20:25:29</string>
 	<key>openTypeNameDesigner</key>
 	<string>Vernon Adams</string>
 	<key>openTypeNameDesignerURL</key>
@@ -31,14 +31,6 @@ http://scripts.sil.org/OFL
 	<string>newtypography</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>newtypography.co.uk</string>
-	<key>openTypeNamePreferedFamilyName</key>
-	<string>Muli</string>
-	<key>openTypeNamePreferedSubfamilyName</key>
-	<string>Bold</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Muli</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 2</string>
 	<key>openTypeOS2FamilyClass</key>
@@ -55,15 +47,23 @@ http://scripts.sil.org/OFL
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Muli-Bold</string>
-	<key>postscriptFullName</key>
-	<string>Muli Bold</string>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
 	<key>styleMapStyleName</key>
-	<string>Bold</string>
+	<string>bold</string>
 	<key>styleName</key>
 	<string>Bold</string>
 	<key>trademark</key>
