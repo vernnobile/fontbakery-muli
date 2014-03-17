@@ -1,9 +1,15 @@
+copyright_license: ofl
+copyright_notice: true
+familyname: Muli
 license_file: OFL.txt
 process_files: [Muli-Semi-Bold.ufo, Muli-Regular.ufo, Muli-ExtraLight.ufo, Muli-Bold.ufo,
   Muli-Light.ufo]
+rfn_asserted: false
+source_cff_filetype: true
 source_drawing_filetype: UFO
 source_ttf_filetype: UFO
 subset: [menu, latin, latin-ext+latin]
+trademark_notice: true
+trademark_permission: false
 ttfautohint: -l 8 -r 50 -G 200 -x 0 -f none -w G -W
 txt_files_copied: []
-
