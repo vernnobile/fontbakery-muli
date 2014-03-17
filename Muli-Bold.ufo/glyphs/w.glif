@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="1685"/>
+  <advance width="822"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="386" y="0" type="line"/>
-      <point x="14" y="1026" type="line"/>
-      <point x="278" y="1026" type="line"/>
-      <point x="356" y="786"/>
-      <point x="434" y="546"/>
-      <point x="512" y="305" type="curve"/>
-      <point x="591" y="547"/>
-      <point x="673" y="786"/>
-      <point x="754" y="1026" type="curve"/>
-      <point x="970" y="1026" type="line"/>
-      <point x="1047" y="785"/>
-      <point x="1123" y="543"/>
-      <point x="1201" y="303" type="curve"/>
-      <point x="1279" y="546"/>
-      <point x="1360" y="785"/>
-      <point x="1440" y="1026" type="curve"/>
-      <point x="1671" y="1026" type="line"/>
-      <point x="1282" y="0" type="line"/>
-      <point x="1075" y="0" type="line"/>
-      <point x="997" y="233"/>
-      <point x="918" y="464"/>
-      <point x="842" y="698" type="curve"/>
-      <point x="760" y="464"/>
-      <point x="677" y="233"/>
-      <point x="594" y="0" type="curve"/>
+      <point x="188" y="0" type="line"/>
+      <point x="7" y="501" type="line"/>
+      <point x="136" y="501" type="line"/>
+      <point x="174" y="384"/>
+      <point x="212" y="267"/>
+      <point x="250" y="149" type="curve"/>
+      <point x="289" y="267"/>
+      <point x="328" y="384"/>
+      <point x="368" y="501" type="curve"/>
+      <point x="474" y="501" type="line"/>
+      <point x="512" y="383"/>
+      <point x="548" y="265"/>
+      <point x="586" y="148" type="curve"/>
+      <point x="624" y="267"/>
+      <point x="664" y="383"/>
+      <point x="703" y="501" type="curve"/>
+      <point x="816" y="501" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="487" y="114"/>
+      <point x="448" y="227"/>
+      <point x="411" y="341" type="curve"/>
+      <point x="371" y="227"/>
+      <point x="331" y="114"/>
+      <point x="290" y="0" type="curve"/>
     </contour>
   </outline>
   <lib>

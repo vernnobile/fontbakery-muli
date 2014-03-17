@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="1961"/>
+  <advance width="957"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="985" y="1456" type="move" name="top"/>
+      <point x="481" y="711" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="194" y="0" type="line"/>
-      <point x="194" y="1456" type="line"/>
-      <point x="468" y="1456" type="line"/>
-      <point x="640" y="1069"/>
-      <point x="810" y="681"/>
-      <point x="983" y="296" type="curve"/>
-      <point x="1153" y="683"/>
-      <point x="1324" y="1069"/>
-      <point x="1495" y="1456" type="curve"/>
-      <point x="1767" y="1456" type="line"/>
-      <point x="1767" y="0" type="line"/>
-      <point x="1551" y="0" type="line"/>
-      <point x="1551" y="1080" type="line"/>
-      <point x="1385" y="724"/>
-      <point x="1228" y="360"/>
-      <point x="1066" y="0" type="curve"/>
-      <point x="897" y="0" type="line"/>
-      <point x="736" y="358"/>
-      <point x="576" y="716"/>
-      <point x="415" y="1073" type="curve"/>
-      <point x="415" y="0" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="95" y="711" type="line"/>
+      <point x="229" y="711" type="line"/>
+      <point x="313" y="522"/>
+      <point x="396" y="333"/>
+      <point x="480" y="145" type="curve"/>
+      <point x="563" y="334"/>
+      <point x="647" y="522"/>
+      <point x="730" y="711" type="curve"/>
+      <point x="863" y="711" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="757" y="0" type="line"/>
+      <point x="757" y="527" type="line"/>
+      <point x="676" y="353"/>
+      <point x="600" y="176"/>
+      <point x="521" y="0" type="curve"/>
+      <point x="438" y="0" type="line"/>
+      <point x="359" y="175"/>
+      <point x="282" y="350"/>
+      <point x="203" y="524" type="curve"/>
+      <point x="203" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

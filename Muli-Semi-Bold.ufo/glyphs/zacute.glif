@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zacute" format="1">
-  <advance width="986"/>
+  <advance width="481"/>
   <unicode hex="017A"/>
   <outline>
-    <component base="acute" xOffset="388"/>
+    <component base="acute" xOffset="189"/>
     <component base="z"/>
   </outline>
   <lib>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0326" format="1">
-  <advance width="540"/>
+  <advance width="263"/>
   <unicode hex="0326"/>
   <outline>
     <contour>
-      <point x="136" y="-582" type="line"/>
-      <point x="241" y="-129" type="line"/>
-      <point x="404" y="-129" type="line"/>
-      <point x="246" y="-582" type="line"/>
+      <point x="66" y="-284" type="line"/>
+      <point x="118" y="-63" type="line"/>
+      <point x="197" y="-63" type="line"/>
+      <point x="120" y="-284" type="line"/>
     </contour>
   </outline>
   <lib>

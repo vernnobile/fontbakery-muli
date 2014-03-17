@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="1024"/>
+  <advance width="500"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
-      <point x="576" y="871" type="line"/>
-      <point x="686" y="1456" type="line"/>
-      <point x="932" y="1456" type="line"/>
-      <point x="767" y="871" type="line"/>
+      <point x="281" y="425" type="line"/>
+      <point x="335" y="711" type="line"/>
+      <point x="455" y="711" type="line"/>
+      <point x="375" y="425" type="line"/>
     </contour>
     <contour>
-      <point x="186" y="871" type="line"/>
-      <point x="294" y="1456" type="line"/>
-      <point x="542" y="1456" type="line"/>
-      <point x="377" y="871" type="line"/>
+      <point x="91" y="425" type="line"/>
+      <point x="144" y="711" type="line"/>
+      <point x="265" y="711" type="line"/>
+      <point x="184" y="425" type="line"/>
     </contour>
   </outline>
   <lib>

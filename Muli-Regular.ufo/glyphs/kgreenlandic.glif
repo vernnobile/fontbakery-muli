@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="1082"/>
+  <advance width="528"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="170" y="0" type="line"/>
-      <point x="170" y="1026" type="line"/>
-      <point x="355" y="1026" type="line"/>
-      <point x="355" y="571" type="line"/>
-      <point x="794" y="1026" type="line"/>
-      <point x="1038" y="1026" type="line"/>
-      <point x="517" y="517" type="line"/>
-      <point x="1075" y="0" type="line"/>
-      <point x="838" y="0" type="line"/>
-      <point x="355" y="455" type="line"/>
-      <point x="355" y="0" type="line"/>
+      <point x="83" y="0" type="line"/>
+      <point x="83" y="501" type="line"/>
+      <point x="173" y="501" type="line"/>
+      <point x="173" y="279" type="line"/>
+      <point x="388" y="501" type="line"/>
+      <point x="507" y="501" type="line"/>
+      <point x="252" y="252" type="line"/>
+      <point x="525" y="0" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="173" y="222" type="line"/>
+      <point x="173" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

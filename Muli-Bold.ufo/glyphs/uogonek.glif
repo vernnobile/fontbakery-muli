@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uogonek" format="1">
-  <advance width="1186"/>
+  <advance width="579"/>
   <unicode hex="0173"/>
   <outline>
-    <component base="ogonek" xOffset="628"/>
+    <component base="ogonek" xOffset="307"/>
     <component base="u"/>
   </outline>
   <lib>

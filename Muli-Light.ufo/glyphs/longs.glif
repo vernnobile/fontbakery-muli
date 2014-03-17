@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="longs" format="1">
-  <advance width="957"/>
+  <advance width="467"/>
   <unicode hex="017F"/>
   <outline>
     <component base="s"/>

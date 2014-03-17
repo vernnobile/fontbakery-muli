@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="743"/>
+  <advance width="362"/>
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="373" y="1026" type="move" name="_top"/>
+      <point x="182" y="501" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="486" y="1196" type="line"/>
-      <point x="486" y="1344" type="line"/>
-      <point x="629" y="1344" type="line"/>
-      <point x="629" y="1196" type="line"/>
+      <point x="237" y="584" type="line"/>
+      <point x="237" y="656" type="line"/>
+      <point x="307" y="656" type="line"/>
+      <point x="307" y="584" type="line"/>
     </contour>
     <contour>
-      <point x="116" y="1196" type="line"/>
-      <point x="116" y="1344" type="line"/>
-      <point x="259" y="1344" type="line"/>
-      <point x="259" y="1196" type="line"/>
+      <point x="57" y="584" type="line"/>
+      <point x="57" y="656" type="line"/>
+      <point x="126" y="656" type="line"/>
+      <point x="126" y="584" type="line"/>
     </contour>
   </outline>
   <lib>

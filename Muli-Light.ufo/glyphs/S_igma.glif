@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="1">
-  <advance width="1148"/>
+  <advance width="560"/>
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="117" y="-105" type="line"/>
-      <point x="117" y="-32" type="line"/>
-      <point x="621" y="688" type="line"/>
-      <point x="136" y="1375" type="line"/>
-      <point x="136" y="1454" type="line"/>
-      <point x="1036" y="1454" type="line"/>
-      <point x="1036" y="1343" type="line"/>
-      <point x="316" y="1343" type="line"/>
-      <point x="771" y="697" type="line"/>
-      <point x="283" y="7" type="line"/>
-      <point x="1078" y="7" type="line"/>
-      <point x="1078" y="-105" type="line"/>
+      <point x="57" y="-51" type="line"/>
+      <point x="57" y="-16" type="line"/>
+      <point x="303" y="336" type="line"/>
+      <point x="66" y="671" type="line"/>
+      <point x="66" y="710" type="line"/>
+      <point x="506" y="710" type="line"/>
+      <point x="506" y="656" type="line"/>
+      <point x="154" y="656" type="line"/>
+      <point x="376" y="340" type="line"/>
+      <point x="138" y="3" type="line"/>
+      <point x="526" y="3" type="line"/>
+      <point x="526" y="-51" type="line"/>
     </contour>
   </outline>
 </glyph>

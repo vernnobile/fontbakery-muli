@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="1121"/>
+  <advance width="547"/>
   <unicode hex="0162"/>
   <outline>
     <component base="T"/>
-    <component base="cedilla" xOffset="341"/>
+    <component base="cedilla" xOffset="167"/>
   </outline>
   <lib>
     <dict>

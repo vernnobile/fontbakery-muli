@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y" format="1">
-  <advance width="1239"/>
+  <advance width="604"/>
   <unicode hex="0059"/>
   <outline>
     <contour>
-      <point x="640" y="1456" type="move" name="top"/>
+      <point x="312" y="711" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="522" y="0" type="line"/>
-      <point x="522" y="575" type="line"/>
-      <point x="21" y="1456" type="line"/>
-      <point x="233" y="1456" type="line"/>
-      <point x="622" y="743" type="line"/>
-      <point x="1013" y="1456" type="line"/>
-      <point x="1226" y="1456" type="line"/>
-      <point x="714" y="578" type="line"/>
-      <point x="714" y="0" type="line"/>
+      <point x="255" y="0" type="line"/>
+      <point x="255" y="281" type="line"/>
+      <point x="10" y="711" type="line"/>
+      <point x="114" y="711" type="line"/>
+      <point x="304" y="363" type="line"/>
+      <point x="495" y="711" type="line"/>
+      <point x="599" y="711" type="line"/>
+      <point x="349" y="282" type="line"/>
+      <point x="349" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

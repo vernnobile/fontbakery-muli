@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Adieresis" format="1">
-  <advance width="1399"/>
+  <advance width="683"/>
   <unicode hex="00C4"/>
   <outline>
     <component base="A"/>
-    <component base="dieresis" xOffset="328" yOffset="430"/>
+    <component base="dieresis" xOffset="160" yOffset="210"/>
   </outline>
   <lib>
     <dict>

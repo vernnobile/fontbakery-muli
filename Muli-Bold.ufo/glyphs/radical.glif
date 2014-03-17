@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="radical" format="1">
-  <advance width="1314"/>
+  <advance width="641"/>
   <unicode hex="221A"/>
   <outline>
     <contour>
-      <point x="515" y="-142" type="line"/>
-      <point x="210" y="635" type="line"/>
-      <point x="207" y="634"/>
-      <point x="50" y="605"/>
-      <point x="50" y="605" type="curve"/>
-      <point x="5" y="785" type="line"/>
-      <point x="375" y="843" type="line"/>
-      <point x="594" y="263" type="line"/>
-      <point x="944" y="1554" type="line"/>
-      <point x="1172" y="1554" type="line"/>
-      <point x="720" y="-142" type="line"/>
+      <point x="251" y="-69" type="line"/>
+      <point x="103" y="310" type="line"/>
+      <point x="102" y="310"/>
+      <point x="24" y="295"/>
+      <point x="24" y="295" type="curve"/>
+      <point x="2" y="383" type="line"/>
+      <point x="183" y="412" type="line"/>
+      <point x="290" y="128" type="line"/>
+      <point x="461" y="759" type="line"/>
+      <point x="572" y="759" type="line"/>
+      <point x="352" y="-69" type="line"/>
     </contour>
   </outline>
   <lib>

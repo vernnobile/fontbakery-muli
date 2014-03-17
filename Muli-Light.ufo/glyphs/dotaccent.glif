@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="524"/>
+  <advance width="255"/>
   <unicode hex="02D9"/>
   <outline>
     <contour>
-      <point x="264" y="1026" type="move" name="_top"/>
+      <point x="129" y="501" type="move" name="_top"/>
     </contour>
     <contour>
-      <point x="185" y="1247" type="line"/>
-      <point x="185" y="1401" type="line"/>
-      <point x="339" y="1401" type="line"/>
-      <point x="339" y="1247" type="line"/>
+      <point x="90" y="609" type="line"/>
+      <point x="90" y="684" type="line"/>
+      <point x="166" y="684" type="line"/>
+      <point x="166" y="609" type="line"/>
     </contour>
   </outline>
   <lib>

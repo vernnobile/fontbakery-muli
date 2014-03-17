@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="1571"/>
+  <advance width="767"/>
   <unicode hex="00D0"/>
   <outline>
     <component base="D"/>
-    <component base="hyphen" xScale="0.981013" yScale="0.789474" xOffset="-25.9747" yOffset="304.211"/>
+    <component base="hyphen" xScale="0.981013" yScale="0.789474" xOffset="-13" yOffset="149"/>
   </outline>
   <lib>
     <dict>

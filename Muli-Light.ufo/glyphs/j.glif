@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="503"/>
+  <advance width="245"/>
   <unicode hex="006A"/>
   <outline>
     <component base="uni0237"/>
     <contour>
-      <point x="188" y="1312" type="line"/>
-      <point x="188" y="1456" type="line"/>
-      <point x="328" y="1456" type="line"/>
-      <point x="328" y="1312" type="line"/>
+      <point x="92" y="641" type="line"/>
+      <point x="92" y="711" type="line"/>
+      <point x="160" y="711" type="line"/>
+      <point x="160" y="641" type="line"/>
     </contour>
   </outline>
   <lib>
