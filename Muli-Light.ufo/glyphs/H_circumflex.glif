@@ -4,38 +4,32 @@
   <unicode hex="0124"/>
   <outline>
     <component base="H"/>
-    <component base="circumflex" xOffset="214" yOffset="210"/>
+    <component base="circumflex" xOffset="215" yOffset="210"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>Hcircumflex</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1532.55</real>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>Hcircumflex</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <real>1532.55</real>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

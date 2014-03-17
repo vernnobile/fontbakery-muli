@@ -42,62 +42,61 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-11</integer>
-	    <key>width</key>	    <integer>75</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>237</integer>
-	    <key>width</key>	    <integer>64</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>440</integer>
-	    <key>width</key>	    <integer>74</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>52</integer>
-	    <key>width</key>
-	    <integer>95</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-11</integer>
+            <key>width</key>
+            <integer>75</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>237</integer>
+            <key>width</key>
+            <integer>64</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>440</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>52</integer>
+            <key>width</key>
+            <integer>95</integer>
+          </dict>
+        </array>
       </dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.guides</key>
+      <array/>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>e</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1169.75</real>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>e</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <real>1169.75</real>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
-    <key>com.typemytype.robofont.guides</key>
-      <array>
-      </array>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

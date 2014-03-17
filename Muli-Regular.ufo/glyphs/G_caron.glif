@@ -4,13 +4,12 @@
   <unicode hex="01E6"/>
   <outline>
     <component base="G"/>
-    <component base="caron" xOffset="236" yOffset="210"/>
+    <component base="caron" xOffset="237" yOffset="210"/>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -4,12 +4,6 @@
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="146" y="711" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="150" y="501" type="move" name="caron.alt"/>
-    </contour>
-    <contour>
       <point x="104" y="0" type="line"/>
       <point x="104" y="711" type="line"/>
       <point x="177" y="711" type="line"/>
@@ -17,15 +11,19 @@
       <point x="508" y="61" type="line"/>
       <point x="508" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="146" y="711" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="150" y="501" type="move" name="caron.alt"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
-      </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

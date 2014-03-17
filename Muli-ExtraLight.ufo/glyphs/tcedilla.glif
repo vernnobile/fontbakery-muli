@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcedilla" format="1">
+  <advance width="335"/>
+  <unicode hex="0163"/>
+  <outline>
+    <component base="cedilla" xOffset="99" yOffset="15"/>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0163</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>750.14999999999998</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

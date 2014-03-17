@@ -4,9 +4,6 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
-      <point x="175" y="711" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="123" y="0" type="line"/>
       <point x="123" y="441" type="line"/>
       <point x="34" y="441" type="line"/>
@@ -27,37 +24,34 @@
       <point x="213" y="441" type="line"/>
       <point x="213" y="0" type="line"/>
     </contour>
+    <contour>
+      <point x="175" y="711" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
+      <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>f</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>733.10000000000002</real>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-    <key>b</key>
-      <dict>
-    <key>name</key>
-      <string>f</string>
-    <key>lib</key>
-      <dict>
-      </dict>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <real>733.1</real>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-      </dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

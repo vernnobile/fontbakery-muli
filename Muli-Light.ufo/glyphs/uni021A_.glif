@@ -8,12 +8,29 @@
   </outline>
   <lib>
     <dict>
-    <key>org.robofab.postScriptHintData</key>
-      <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
+ <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni0162</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1147.3499999999999</real>
+        </dict>
       </dict>
-    <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzcaron" format="1">
+  <advance width="1105"/>
+  <unicode hex="01C6"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="618"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

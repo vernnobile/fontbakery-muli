@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pdotaccent" format="1">
+  <advance width="626"/>
+  <unicode hex="1E56"/>
+  <outline>
+    <component base="P"/>
+    <component base="dotaccent" xOffset="196" yOffset="210"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array/>
+          <key>components</key>
+          <array/>
+          <key>contours</key>
+          <array/>
+          <key>lib</key>
+          <dict/>
+          <key>name</key>
+          <string>uni1E56</string>
+          <key>unicodes</key>
+          <array/>
+          <key>width</key>
+          <real>1261.0999999999999</real>
+        </dict>
+      </dict>
+      <key>org.robofab.postScriptHintData</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>
